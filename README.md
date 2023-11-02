@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Gavriil-S/Coursework-MedStyle>
+  <a href="https://github.com/Gavriil-S/Coursework-MedStyle">
     <img src="https://static.1c.ru/images/guidline/logo_3.png" alt="Logo" width="80" height="80">
   </a>
 
