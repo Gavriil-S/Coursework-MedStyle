@@ -8,30 +8,11 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Gavriil-S/Coursework-MedStyle>
+    <img src="https://www.shinajcb.ru/userfls/bs/1s_6.webp" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">АИС “MedStyle”</h3>
@@ -54,7 +35,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Навигация</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -85,7 +66,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-АИС “MedStyle” предназначена для автоматизации процессов управления и учета в медицинском центре. Система позволяет вести базу пациентов, управлять записью на прием, вести учет медицинских услуг, а также управлять финансовой и административной деятельностью медицинского центра.
+АИС “MedStyle” предназначена для автоматизации процессов управления и учета в медицинском центре. Система позволяет вести базу пациентов, управлять записью на прием, вести учет медицинских услуг, а также управлять финансовой и административной деятельностью медицинского центра.<br>
 Пользователи данной системы – это сотрудники медицинского центра, включая административный и медицинский персонал. Система предоставляет возможность добавления, изменения и удаления информации о пациентах, врачах, услугах и финансовой деятельности. Вся введенная информация является входной для системы. Выходная информация включает отчеты о работе медицинского центра, статистику посещаемости и финансовые отчеты.
 
 
