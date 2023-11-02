@@ -70,22 +70,22 @@
 
 * <a href="https://v8.1c.ru/"><img src="https://static.1c.ru/images/guidline/logo_1.png" alt="1С: Предприятие" width="120" height="60"/></a>
 
-<p align="right">(<a href="#readme-top">В начало</a>)</p>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Использование
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Дорожная карта
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -93,8 +93,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Nested Feature
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+Полный список планируемых функций (и известных проблем) приведен в разделе ["Открытые проблемы"](#open-problems).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 
 <!-- LICENSE -->
@@ -117,7 +118,14 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
+## Открытые проблемы
+<a name="open-problems"></a>
 
+- [ ] Доработка схем
+- [ ] Доработка моделей
+- [ ] Внедрение печатных форм для входных/выходных документов
+
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 <!-- ## Acknowledgments
