@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Gavriil-S/Coursework-MedStyle>
-    <img src="https://newtvnews.ru/wp-content/uploads/2022/12/55564da140c0888e7a8dead9_60af45f001e4a.jpg" alt="Logo" width="80" height="80">
+    <img src="https://static.1c.ru/images/guidline/logo_3.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">АИС “MedStyle”</h3>
