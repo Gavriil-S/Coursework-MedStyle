@@ -96,6 +96,7 @@
 ### Built With
 
 * [![1C.ru][v8.1c.ru]][1C-url]
+* <a href="https://v8.1c.ru/"><img src="https://static.1c.ru/images/guidline/logo_1.png" alt="1С: Предприятие" width="120" height="80"/></a>
 
 <p align="right">(<a href="#readme-top">В начало</a>)</p>
 
