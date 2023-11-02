@@ -29,25 +29,20 @@
 <details>
   <summary>Навигация</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
+    <!--<li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    </li>-->
+    <li><a href="#about-program">О программе</a></li>
+    <li><a href="#instruments">Разработано при помощи</a></li>
+    <li><a href="#usage-examples">Использование</a></li>
+    <li><a href="#roadmap">Дорожная карта</a></li>
+    <li><a href="#license">Лицензии</a></li>
+    <li><a href="#contact">Контакты</a></li>
+    <li><a href="#open-problems">Открытые проблемы</a></li>
   </ol>
 </details>
 
@@ -55,6 +50,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## О программе
+<a name="about-program"></a>
 
 <img src="https://stroicraft.ru/wp-content/uploads/forgithub/main.png" alt="Главное окно"/>
 
@@ -67,6 +63,7 @@
 
 
 ### Разработано при помощи
+<a name="instruments"></a>
 
 * <a href="https://v8.1c.ru/"><img src="https://static.1c.ru/images/guidline/logo_1.png" alt="1С: Предприятие" width="120" height="60"/></a>
 
@@ -75,10 +72,20 @@
 
 <!-- USAGE EXAMPLES -->
 ## Использование
+<a name="usage-examples"></a>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<b>Добавление новой записи на приём:</b> <br/>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<img src="https://stroicraft.ru/wp-content/uploads/forgithub/step1.png" alt="Шаг 1"/>
+Для того, чтобы добавить новую запись на приём, Работник должен перейти в раздел "Прием пациентов" (1) и выбрать пункт "Записи" (2)<br /> <br />
+
+<img src="https://stroicraft.ru/wp-content/uploads/forgithub/step2.png" alt="Шаг 2"/>
+На странице перечня записей, Работник нажимает кнопку "Создать" (1) <br /> <br />
+
+<img src="https://stroicraft.ru/wp-content/uploads/forgithub/step3.png" alt="Шаг 3"/>
+В появившемся окне "Запись" (1), Работник заполняет следующие обязательные поля - "Статус" (2), "Медицинский центр" (3), "Сотрудник" (4), "Клиент" (5), "Услуга" (6). После заполнения полей необходимыми данными, Работник нажимает кнопку "Провести и закрыть" <br /> <br />
+
+_Больше примеров можно получить ознакомившись с [Документацией](https://example.com)_
 
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
@@ -86,13 +93,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Дорожная карта
+<a name="roadmap"></a>
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Проектирование моделей
+- [ ] Разработка макетов приложения
+- [ ] Разработка приложения
+- [ ] Тестирование
+- [ ] Внедрение ИС
+- [ ] Поддержка
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 Полный список планируемых функций (и известных проблем) приведен в разделе ["Открытые проблемы"](#open-problems).
 
 <p align="right">(<a href="#readme-top">Наверх</a>)</p>
@@ -100,6 +109,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- LICENSE -->
 ## Лицензии
+<a name="license"></a>
 
 Доступ к ИС планируется контролировать лицензионными ключами продукта. Данный модуль находится в разработке.
 
@@ -109,6 +119,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <!-- CONTACT -->
 ## Контакты
+<a name="contact"></a>
 
 Тимофей - [@MrTim2015](https://t.me/MrTim2015) - ya@timofejmelnikov.ru
 <br/><br/>
