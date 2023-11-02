@@ -11,7 +11,7 @@
 
   <p align="center">
     Мельников Тимофей, Самарин Гавриил - студенты группы 1201
-    <br />
+    <!-- <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -19,7 +19,7 @@
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a> -->
   </p>
 </div>
 
@@ -62,11 +62,11 @@
 Пользователи данной системы – это сотрудники медицинского центра, включая административный и медицинский персонал. Система предоставляет возможность добавления, изменения и удаления информации о пациентах, врачах, услугах и финансовой деятельности. Вся введенная информация является входной для системы. Выходная информация включает отчеты о работе медицинского центра, статистику посещаемости и финансовые отчеты.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 
 
-### Built With
+### Разработано при помощи
 
 * <a href="https://v8.1c.ru/"><img src="https://static.1c.ru/images/guidline/logo_1.png" alt="1С: Предприятие" width="120" height="60"/></a>
 
@@ -98,33 +98,35 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 
 <!-- LICENSE -->
-## License
+## Лицензии
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Доступ к ИС планируется контролировать лицензионными ключами продукта. Данный модуль находится в разработке.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Контакты
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Тимофей - [@MrTim2015](https://t.me/MrTim2015) - ya@timofejmelnikov.ru
+<br/><br/>
+Гавриил - [@GavriilSamarin](https://t.me/GavriilSamarin) - samaringavriil@yandex.ru
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+<!--Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)-->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Наверх</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 * []()
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>-->
 
 
 
