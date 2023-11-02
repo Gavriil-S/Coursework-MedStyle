@@ -10,7 +10,7 @@
 <h3 align="center">АИС “MedStyle”</h3>
 
   <p align="center">
-    project_description
+    Мельников Тимофей, Самарин Гавриил - студенты группы 1201
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -58,7 +58,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-АИС “MedStyle” предназначена для автоматизации процессов управления и учета в медицинском центре. Система позволяет вести базу пациентов, управлять записью на прием, вести учет медицинских услуг, а также управлять финансовой и административной деятельностью медицинского центра.<br>
+АИС “MedStyle” предназначена для автоматизации процессов управления и учета в медицинском центре. Система позволяет вести базу пациентов, управлять записью на прием, вести учет медицинских услуг, а также управлять финансовой и административной деятельностью медицинского центра.<br /> <br />
 Пользователи данной системы – это сотрудники медицинского центра, включая административный и медицинский персонал. Система предоставляет возможность добавления, изменения и удаления информации о пациентах, врачах, услугах и финансовой деятельности. Вся введенная информация является входной для системы. Выходная информация включает отчеты о работе медицинского центра, статистику посещаемости и финансовые отчеты.
 
 
@@ -142,7 +142,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://история-народа.рф/images/others/123.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
