@@ -124,6 +124,11 @@ _Больше примеров можно получить ознакомивш�
 Тимофей - [@MrTim2015](https://t.me/MrTim2015) - ya@timofejmelnikov.ru
 <br/><br/>
 Гавриил - [@GavriilSamarin](https://t.me/GavriilSamarin) - samaringavriil@yandex.ru
+<br/><br/>
+Телеграм бот: <a href="https://t.me/MedStyle1C_bot">Медицинский центр "MedStyle"</a>
+<a href="https://t.me/MedStyle1C_bot">
+    <img src="https://stroicraft.ru/wp-content/uploads/github2/telegram.jpg" alt="Медицинский центр MedStyle" width="auto" height="100">
+</a>
 
 <!--Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)-->
 
