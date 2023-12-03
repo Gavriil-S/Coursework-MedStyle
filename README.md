@@ -128,7 +128,7 @@ _Больше примеров можно получить ознакомивш�
 Телеграм бот: <a href="https://t.me/MedStyle1C_bot">Медицинский центр "MedStyle"</a>
 <br/><br/>
 <a href="https://t.me/MedStyle1C_bot">
-    <img src="https://stroicraft.ru/wp-content/uploads/github2/telegram.jpg" alt="Медицинский центр MedStyle">
+    <img src="https://stroicraft.ru/wp-content/uploads/github2/telegram.jpg" alt="Медицинский центр MedStyle" height="200">
 </a>
 
 <!--Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)-->
